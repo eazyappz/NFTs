@@ -1,0 +1,19 @@
+{
+    "project": "Eazy-NFTs",
+    "collection" : [
+      "Nature"
+      ],
+    "tags": [
+        "nature",
+        "insect",
+        "mantis",
+        "grasshopper",
+        ""],
+        "Location": [
+        "South Africa",
+        "Hearmanus",
+        "Onrus",
+        ""],
+    "policies": [
+        "6da1a2012bf305669064d32c6c8f997079d7fbd17ecfa0033c8b2da0"
+    ]
